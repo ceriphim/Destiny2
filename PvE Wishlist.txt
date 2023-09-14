@@ -1,0 +1,33 @@
+title:Destiny 2 PvE Godrolls Curated by Ceriphim
+
+//Warden's Law (Adept)
+//notes: (PvE) FTTC+Vorpal for champion fights and Lucky Pants burst damage. Enlightened Action+Frenzy gives big neutral consistency.
+dimwishlist:item=267089201&perks=4090651448,1087426260,1354429876,1546637391,744217850
+dimwishlist:item=267089201&perks=4090651448,3142289711,3828510309,4104185692,744217850
+
+//Warden's Law
+//notes: (PvE) FTTC+Vorpal for champion fights and Lucky Pants burst damage. Enlightened Action+Frenzy gives big neutral consistency.
+dimwishlist:item=1821529912&perks=4090651448,1087426260,1354429876,1546637391,744217850
+dimwishlist:item=1821529912&perks=4090651448,3142289711,3828510309,4104185692,744217850
+
+//Hung Jury SR4 (Adept)
+//notes: (PvE) Rapid Hit is a given for consistency in all difficulty levels, paired with KT to provide champion damage or Frenzy for neutral consistency. Swap to Subsistence+Firefly for mass add-clear
+dimwishlist:item=2883684343&perks=839105230,3142289711,247725512,3891536761,1281216113
+dimwishlist:item=2883684343&perks=839105230,3142289711,247725512,4104185692,744217850
+dimwishlist:item=2883684343&perks=839105230,3142289711,1820235745,3824105627,744217850
+
+//Hung Jury SR4
+//notes: (PvE) Rapid Hit is a given for consistency in all difficulty levels, paired with KT to provide champion damage or Frenzy for neutral consistency. Swap to Subsistence+Firefly for mass add-clear
+dimwishlist:item=3832743906&perks=839105230,3142289711,247725512,3891536761,1281216113
+dimwishlist:item=3832743906&perks=839105230,3142289711,247725512,4104185692,744217850
+dimwishlist:item=3832743906&perks=839105230,3142289711,1820235745,3824105627,744217850
+
+//The Showrunner
+//notes: (PvE) close optimal engagement range and high base recoil direction; stability, reload, and damage are all that's needed
+dimwishlist:item=1999754402&perks=4090651448,1885400500,3643424744,3891536761,744217850
+dimwishlist:item=1999754402&perks=4090651448,1885400500,3643424744,365154968,744217850
+
+//Dead Man's Tale
+//notes: (PvE) Big damage, fire rate, and range from the fully upgraded intrinsic; spec into stability to improve ease of use
+dimwishlist:item=2188764214&perks=4090651448,1885400500,1546637391,990298390,499501121
+
