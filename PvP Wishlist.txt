@@ -1,15 +1,15 @@
 title:Destiny 2 PvP Godrolls Curated by Ceriphim
 
 //Warden's Law (Adept)
-//notes: Stability seems to be a MUST for PvP shot placement. Recoil bounces hard between shots in-burst resulting in a miss on shot 2 when aiming as one normally would with any other weapon, requiring targetting center mass or collarbone. High base stability with moving target should offset this issue, at least somewhat, with zen moment making the second burst a non-problem. If consistently killing with burst 1 targetting, you could reasonably replace zen moment with killclip for extra pickup kills
-dimwishlist:item=267089201&perks=4090651448,3177308360,588594999,2387244414,744217850
+//notes: (PvP) Stability seems to be a MUST for PvP shot placement. Recoil bounces hard between shots in-burst resulting in a miss on shot 2 when aiming as one normally would with any other weapon, requiring targetting center mass or collarbone. High base stability with moving target should offset this issue, at least somewhat, with zen moment making the second burst a non-problem. If consistently killing with burst 1 targetting, you could reasonably replace zen moment with killclip for extra pickup kills
+dimwishlist:item=267089201&perks=4090651448,3177308360,2387244414,744217850,588594999
 
 //Wastelander M5
-//notes: Lightweight spread pattern is deceptively narrow with range being the most important factor. Opening Shot and Slideshot give a nice +45 range when procc'd, maxing out range with this roll.
+//notes: (PvP) Lightweight spread pattern is deceptively narrow with range being the most important factor. Opening Shot and Slideshot give a nice +45 range when procc'd, maxing out range with this roll.
 dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717,1260401931
 
 //Round Robin
-//notes: Consistency traits win out with range taking priority followed by stability for follow-up shots. Keep away adds much forgiveness at optimal range for 120rpm HCs. Kill Clip provides easier followup killsm but could be replaced with opening shot if fight start aid is desired in duels
+//notes: (PvP) Consistency traits win out with range taking priority followed by stability for follow-up shots. Keep away adds much forgiveness at optimal range for 120rpm HCs. Kill Clip provides easier followup killsm but could be replaced with opening shot if fight start aid is desired in duels
 dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,1015611457,164468655
 
 //
