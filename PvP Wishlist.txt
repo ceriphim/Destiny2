@@ -1,7 +1,7 @@
 title:Destiny 2 PvP Godrolls Curated by Ceriphim
 
 // Warden's Law (Adept) - (mkb,controller)
-//notes: stability seems to be a MUST for PvP shot placement. recoil bounces very hard between shots in-burst resulting in a miss on shot 2 when aiming as one normally would with any other weapon, requiring targetting center mass or collarbone. high base stability with moving target should offset this issue, at least somewhat, with zen moment making the second burst a non-problem. If consistently killing with burst 1 targetting, you could reasonably replace zen moment with killclip for extra pickup kills
+//notes: Stability seems to be a MUST for PvP shot placement. Recoil bounces hard between shots in-burst resulting in a miss on shot 2 when aiming as one normally would with any other weapon, requiring targetting center mass or collarbone. High base stability with moving target should offset this issue, at least somewhat, with zen moment making the second burst a non-problem. If consistently killing with burst 1 targetting, you could reasonably replace zen moment with killclip for extra pickup kills
 dimwishlist:item=267089201&perks=4090651448,3177308360,588594999,2387244414,744217850
 
 //
