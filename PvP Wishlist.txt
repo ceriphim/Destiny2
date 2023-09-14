@@ -4,6 +4,14 @@ title:Destiny 2 PvP Godrolls Curated by Ceriphim
 //notes: (PvP) Stability seems to be a MUST for PvP shot placement. Recoil bounces hard between shots in-burst resulting in a miss on shot 2 when aiming as one normally would with any other weapon, requiring targetting center mass or collarbone. High base stability with moving target should offset this issue, at least somewhat, with zen moment making the second burst a non-problem. If consistently killing with burst 1 targetting, you could reasonably replace zen moment with killclip for extra pickup kills
 dimwishlist:item=267089201&perks=4090651448,3177308360,2387244414,744217850,588594999
 
+//Hung Jury SR4 (Adept)
+//notes: (PvP) consistent out of the box; box breathing seals the deal in TTK forgiveness/enhancement with Rapid Hit bringing low the downtime between engagements
+dimwishlist:item=2883684343&perks=839105230,3142289711,247725512,2551157718,2839173408
+
+//Hung Jury SR4
+//notes: (PvP) consistent out of the box; box breathing seals the deal in TTK forgiveness/enhancement with Rapid Hit bringing low the downtime between engagements
+dimwishlist:item=3832743906&perks=839105230,3142289711,247725512,2551157718,2839173408
+
 //Wastelander M5
 //notes: (PvP) Lightweight spread pattern is deceptively narrow with range being the most important factor. Opening Shot and Slideshot give a nice +45 range when procc'd, maxing out range with this roll.
 dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717,1260401931
@@ -12,4 +20,11 @@ dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717,1260
 //notes: (PvP) Consistency traits win out with range taking priority followed by stability for follow-up shots. Keep away adds much forgiveness at optimal range for 120rpm HCs. Kill Clip provides easier followup killsm but could be replaced with opening shot if fight start aid is desired in duels
 dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,1015611457,164468655
 
-//
+//The Showrunner
+//notes: (PvP) Dynamic Sway is a given with the death of Rangefinder. Your choise of Target Lock for lower TTK or Fragile Focus to push range out a little further
+dimwishlist:item=1999754402&perks=839105230,1885400500,1359896290,365154968,744217850
+dimwishlist:item=1999754402&perks=839105230,1885400500,1359896290,2451262963,744217850
+
+//Dead Man's Tale
+//notes: (PvP) stability and handling are left most wanted with innately high range and aim assistance
+dimwishlist:item=2188764214&perks=4090651448,1885400500,588594999,990298390,499501121
