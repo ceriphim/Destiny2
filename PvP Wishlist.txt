@@ -8,4 +8,6 @@ dimwishlist:item=267089201&perks=4090651448,3177308360,588594999,2387244414,7442
 //notes: Lightweight spread pattern is deceptively narrow with range being the most important factor. Opening Shot and Slideshot give a nice +45 range when procc'd, maxing out range with this roll.
 dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717
 
-//
+//Round Robin
+//notes: Consistency traits win out with range taking priority followed by stability for follow-up shots. Keep away adds much forgiveness at optimal range for 120rpm HCs. Kill Clip provides easier followup killsm but could be replaced with opening shot if fight start aid is desired in duels
+dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,1015611457
