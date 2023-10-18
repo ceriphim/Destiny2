@@ -31,3 +31,22 @@ dimwishlist:item=1999754402&perks=4090651448,1885400500,3643424744,365154968,744
 //notes: (PvE) Big damage, fire rate, and range from the fully upgraded intrinsic; spec into stability to improve ease of use
 dimwishlist:item=2188764214&perks=4090651448,1885400500,1546637391,990298390,499501121
 
+//Horror Story (2023)
+//notes: (PvE) Decent damage and cycling capability from perk pool, utilize demo/headstone or EA/TL dependent on ad-control or single-target needs respectively
+dimwishlist:item=177568179&perks=839105230,106909392,3523296417,124408337,2250679103
+dimwishlist:item=177568179&perks=839105230,106909392,3828510309,365154968,2250679103
+
+//Acosmic
+//notes: (PvE) decent burst damage capability pushed down in an era of BnS supperiority. Explosive light is your only option for single-target with destablizing rounds being an ok option for ad-clear
+dimwishlist:item=413901114&perks=981914802,3301904089,2869569095,3194351027,2250679103
+dimwishlist:item=413901114&perks=1478423395,1380253176,951095735,2048641572,2250679103
+
+//Jurassic Green (2023)
+//notes: (PvE) not very suitable for any role aside low-level ad clear when Frenzy is your best single-target damage option
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,4104185692,2250679103
+dimwishlist:item=3103255595&perks=839105230,3142289711,3017780555,4293542123,2250679103
+
+//Mechabre (2023)
+//notes: (PvE) decent options for PvP now actually, not god-tier but servicable for an aggressive energy
+dimwishlist:item=3871226707&perks=839105230,106909392,2284787283,1546637391,2250679103
+
