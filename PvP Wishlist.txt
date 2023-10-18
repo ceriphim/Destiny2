@@ -28,3 +28,17 @@ dimwishlist:item=1999754402&perks=839105230,1885400500,1359896290,2451262963,744
 //Dead Man's Tale
 //notes: (PvP) stability and handling are left most wanted with innately high range and aim assistance
 dimwishlist:item=2188764214&perks=4090651448,1885400500,588594999,990298390,499501121
+
+//Horror Story (2023)
+//notes: (PvP) moderate need for recoil direction improvement, range can be pushed pretty high, but stability may be desired for better management
+dimwishlist:item=177568179&perks=839105230,3142289711,1359896290,365154968,2250679103
+
+//Jurassic Green (2023)
+//notes: (PvP) solid and focused perk options for a rapid-fire pulse to feel consistent and hard-hitting. Rangefinder still performs while keep-away is the new kid on the block
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080,2250679103
+
+//Mechabre (2023)
+//notes: (PvP) somehow an even better set of options over the last version
+dimwishlist:item=3871226707&perks=839105230,3142289711,3619207468,47981717,2250679103
+dimwishlist:item=3871226707&perks=839105230,3142289711,3619207468,2213355989,2250679103
+
