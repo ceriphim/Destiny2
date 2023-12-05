@@ -50,3 +50,45 @@ dimwishlist:item=3103255595&perks=839105230,3142289711,3017780555,4293542123,225
 //notes: (PvE) decent options for PvP now actually, not god-tier but servicable for an aggressive energy
 dimwishlist:item=3871226707&perks=839105230,106909392,2284787283,1546637391,2250679103
 
+//Endebted Kindness
+//notes: (PvE) decent special damage option, big ammo economy. similar to a lightweight grenade launcher but better sustained DPS
+dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,3708227201,220689851
+dimwishlist:item=3381450498&perks=3525010810,2822142346,951095735,2173046394,220689851
+
+//Vengeful Whisper
+//notes: (PvE) capable powerhouse due to presence of double damage perks and simultaneous single-target/add-clear options
+dimwishlist:item=839344841&perks=2801223209,16392701,3365897133,555281244,220689851
+dimwishlist:item=839344841&perks=2801223209,16392701,3365897133,831391274,220689851
+
+//Naeem's Lance
+//notes: (PvE) pretty mid with no reliable instant-up damage perks
+dimwishlist:item=2806569825&perks=839105230,106909392,1523832109,555281244,220689851
+
+//Dragoncult Sickle
+//notes: (PvE) caster frames are still bottom of the barrel for sword damage, but decent perks take this a little further
+dimwishlist:item=3668817296&perks=1261178282,2349202967,2590710093,2396489472,220689851
+dimwishlist:item=3668817296&perks=938542991,269888150,354401740,3913600130,220689851
+dimwishlist:item=3668817296&perks=938542991,269888150,923806249,3708227201,220689851
+dimwishlist:item=3668817296&perks=938542991,269888150,354401740,3708227201,220689851
+
+//Marcato-45
+//notes: (PvE) single-target
+dimwishlist:item=4233375372&perks=3661387068,106909392,3400784728,3708227201,4008116374
+//notes: (PvE) add-clear
+dimwishlist:item=4233375372&perks=3661387068,106909392,3523296417,831391274,4008116374
+
+//Ros Arago IV
+//notes: (PvE)
+dimwishlist:item=3583275737&perks=839105230,106909392,3418782618,95528736,1050127423
+
+//Breakneck
+//notes: (PvE) single-target
+dimwishlist:item=2026755633&perks=4090651448,1885400500,3828510309,3891536761,515704826
+//notes: (PvE) add-clear
+dimwishlist:item=2026755633&perks=4090651448,1885400500,1820235745,95528736,515704826
+
+//Parabellum
+//notes: (PvE)
+dimwishlist:item=3926811686&perks=4090651448,106909392,3418782618,4104185692,43555494
+dimwishlist:item=3926811686&perks=4090651448,106909392,3017780555,4104185692,43555494
+
