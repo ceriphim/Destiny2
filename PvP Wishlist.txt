@@ -42,3 +42,33 @@ dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080,2250
 dimwishlist:item=3871226707&perks=839105230,3142289711,3619207468,47981717,2250679103
 dimwishlist:item=3871226707&perks=839105230,3142289711,3619207468,2213355989,2250679103
 
+//Indebted Kindness
+//notes: (PvP) similar kill capability to Forerunner, but low in forgiveness. targetting highest possible velocity should make it feel more consistent
+dimwishlist:item=3381450498&perks=981914802,2822142346,951095735,3673922083,220689851
+
+//Vengeful Whisper
+//notes: (PvP) easily the strongest bow out there, providing better roll versatility than Pre Astyanax IV
+dimwishlist:item=839344841&perks=852209214,16392701,3365897133,2652708987,220689851
+dimwishlist:item=839344841&perks=852209214,16392701,201365942,2652708987,220689851
+
+//Naeem's Lance
+//notes: (PvP) decent consistentcy perks with similarly decent stats
+dimwishlist:item=2806569825&perks=839105230,3142289711,3619207468,2319119708,220689851
+
+//Dragoncult Sickle
+//notes: (PvP) not much in the way of closing the gap, not that casters need it, but some decent collateral options
+dimwishlist:item=3668817296&perks=938542991,269888150,354401740,2396489472,220689851
+
+//Ros Aragao IV
+//notes: (PvP)
+dimwishlist:item=3583275737&perks=839105230,3142289711,1359896290,95528736,1050127423
+
+//Breakneck
+//notes: (PvP)
+dimwishlist:item=2026755633&perks=4090651448,1885400500,1359896290,1890422124,515704826
+dimwishlist:item=2026755633&perks=4090651448,1885400500,1359896290,95528736,515704826
+
+//Parabellum
+//notes: (PvP)
+dimwishlist:item=3926811686&perks=3250034553,106909392,3828510309,1359896290,43555494
+
