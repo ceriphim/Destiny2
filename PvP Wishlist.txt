@@ -4,6 +4,10 @@ title:Destiny 2 PvP Godrolls Curated by Ceriphim
 ---
 //Auto Rifle
 ---
+//Lethal Abundance
+//notes: (PvP)
+dimwishlist:item=2189073092&perks=4090651448,1885400500,1359896290,1890422124,3989629871
+
 //Ros Aragao IV
 //notes: (PvP)
 dimwishlist:item=3583275737&perks=839105230,3142289711,1359896290,95528736,1050127423
