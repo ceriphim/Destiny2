@@ -91,8 +91,10 @@ dimwishlist:item=1891321753&perks=839105230,3142289711,588594999,3047969693
 dimwishlist:item=3723679465&perks=1482024992,1885400500,247725512,47981717
 
 //Optative
-//notes: (PvP)
-dimwishlist:item=2817683783&perks=4090651448,3142289711,247725512,2387244414
+//notes: (PvP) range-focused, hits out to 32m in ADS
+dimwishlist:item=2817683783&perks=1482024992,3142289711,2938480696,1748774930,19542588
+//notes: (PvP) much better feeling at the cost of dropping down to 30m ADS range
+dimwishlist:item=2817683783&perks=4090651448,3142289711,2938480696,1748774930,19542588
 
 //Warden's Law (Adept)
 //notes: (PvP)
