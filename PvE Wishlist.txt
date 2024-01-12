@@ -184,6 +184,18 @@ dimwishlist:item=839344841&perks=2801223209,16392701,3365897133,831391274,220689
 ---
 //Shotgun
 ---
+//Until Its Return
+//notes: (PvE) rapid-fires get outcompeted by lightweights and aggressives in most total-damage scenarios so going for pure DPS is the way
+dimwishlist:item=2883484461&perks=1300023272,106909392,2682205016,331667533,2053642371
+//notes: (PvE) otherwise, surrounded is your best bet for a mix of DPS and total damage
+dimwishlist:item=2883484461&perks=1300023272,106909392,2682205016,781192741,2053642371
+
+//Swordbreaker
+//notes: (PvE) when activating surrounded, you're already at max handling and reload, so take a crafted range masterwork
+dimwishlist:item=3163900678&perks=1300023272,791862061,494941759,781192741,1156201379
+//notes: (PvE) already at max handling from a single TD stack, so take a crafted reload speed masterwork
+dimwishlist:item=3163900678&perks=1300023272,791862061,494941759,788178929,1156201379
+
 //retrofuturist
 //notes: (PvE) single-target
 dimwishlist:item=1612781792&perks=1300023272,791862061,3300816228,2360754333
